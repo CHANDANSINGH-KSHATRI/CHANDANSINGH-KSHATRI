@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CHANDANSINGH-KSHATRI							
 - 👀 I’m interested in Data Science   				
-- 🌱 I’m currently learning WEB SCRAPPING
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Deep Learning
 - 😄 Pronouns : He/Him
 - ⚡ Fun fact : Your computer probably knows more about you than your best friend
 
